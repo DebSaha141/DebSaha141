@@ -1,4 +1,15 @@
-### Hi there 👋
+<div align="center">
+    <h2>Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px"> I'm Debmalya Saha </h2>
+</div>
+
+
+
+
+
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
