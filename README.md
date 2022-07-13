@@ -23,7 +23,7 @@
         <h3>
             About Me :
         </h3>
-    <h5>
+    <h4>
         <ul>
             <li>Basic Level Programmer</li>
             <li>WordPress Web Developer</li>
@@ -35,7 +35,7 @@
         <h2>
         </h2>
         </p>
-    </h5>
+    </h4>
 </div>
 
 <div>
