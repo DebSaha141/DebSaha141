@@ -1,5 +1,6 @@
 <div align="center">
-    <h1>Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px"> I'm Debmalya Saha </h1>
+    <img src="https://komarev.com/ghpvc/?username=DebSaha141&style=flat-square&color=blue" alt=""/>
+    <h1>Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px"> I'm Debmalya Saha </h1>
 </div>
 
 
