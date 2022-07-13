@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px"> I'm Debmalya Saha </h2>
+    <h1>Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px"> I'm Debmalya Saha </h1>
 </div>
 
 
