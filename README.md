@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>
-        A Passionate WordPress Web Developer, Programmer and CyberSecurity Enthusiast from India<br>
+        A Passionate Web Developer, Programmer and CyberSecurity Enthusiast from India<br>
         <p>
         <h3>
         </h3>
