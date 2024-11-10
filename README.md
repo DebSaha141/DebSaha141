@@ -74,9 +74,7 @@
     <h3>
     </h3>
     </p>
-    <link>
-    [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/DebSaha141?year=2024Extd)](https://gssoc.girlscript.tech)
-</link>
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/DebSaha141?year=2024Extd)
 
 </div>
 
