@@ -62,13 +62,29 @@
   </p>
 </div>
 
-<div id="badges">
+<div id="Badges">
     <p>
     <h3>
     </h3>
     </p>
         <h3>
-            Languages & Tools :
+            Badges :
+        </h3>
+    <p>
+    <h3>
+    </h3>
+    </p>
+    [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/DebSaha141?year=2024Extd)](https://gssoc.girlscript.tech)
+
+</div>
+
+<div id="Contact">
+    <p>
+    <h3>
+    </h3>
+    </p>
+        <h3>
+            Contact :
         </h3>
     <p>
     <h3>
@@ -82,6 +98,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </div>
+
     
 
 <!--
