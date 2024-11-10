@@ -62,22 +62,6 @@
   </p>
 </div>
 
-<div id="Badges">
-    <p>
-    <h3>
-    </h3>
-    </p>
-        <h3>
-            Badges :
-        </h3>
-    <p>
-    <h3>
-    </h3>
-    </p>
-![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/DebSaha141?year=2024Extd)
-
-</div>
-
 <div id="Contact">
     <p>
     <h3>
