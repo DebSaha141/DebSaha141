@@ -1,87 +1,44 @@
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=DebSaha141&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px"> I'm Debmalya Saha 
-    </h1>
+    <img src="https://res.cloudinary.com/dzabseimd/image/upload/v1736098454/Untitled_design_l9ebcs.gif" width="90%" alt=""/>
 </div>
-
+<br/>
 <div align="center">
-    <h2>
-        A Passionate Web Developer, Programmer and CyberSecurity Enthusiast from India<br>
-        <p>
-        <h3>
-        </h3>
-        </p>
-    </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,express,mongo,c,cpp,python,java,mysql,arduino,wordpress,firebase,vscode,visualstudio,figma,linux,kali &theme=dark"/>
+  </a>
 </div>
 
-<div>
-    <p>
-    <h3>
-    </h3>
-    </p>
-        <h3>
-            About Me :
-        </h3>
-    <h4>
-        <ul>
-            <li>Basic Level Programmer</li>
-            <li>WordPress Web Developer</li>
-            <li>Passionate About Computers And Tech</li>
-            <li>Projects On Arduino</li>
-            <li>Building Stuff</li>
-        </ul>  
-        <p>
-        <h2>
-        </h2>
-        </p>
-    </h4>
+## About Me 
+- 🔭 Pronouns: He/Him.
+- 🌱 2nd Year CSE Student: Currently pursuing a Bachelors Degree in Computer Science and Technology at KIIT, Bhubaneswar, and actively seeking exciting opportunities!
+- 👥 Tech Enthusiast: Passionate about web development, app development, and exploring the world of cybersecurity.
+- 🌟 Hackathon Winner: Ranked 1 in Frontend Battle '24 at IIT Bhubaneswar.
+- 🎯 2025 Goals: Develop innovative projects, contribute to open-source, and land a role that challenges my skills and creativity.
+- ⚡ Fun Fact: I enjoy debugging code as much as I enjoy exploring new technologies.
+
+## GSSOC Extd'24 Badges
+<div align="center">
+    <img src="https://res.cloudinary.com/dzabseimd/image/upload/v1736099566/xjwvf7wvabck9vaqorhk.png" width="80%" height="80%" alt=""/>
 </div>
 
-<div>
-    <p>
-    <h3>
-    </h3>
-    </p>
-        <h3>
-            Languages & Tools :
-        </h3>
-    <p>
-    <h3>
-    </h3>
-    </p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://www.freeiconspng.com/uploads/arduino-icon-2.png" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <p>
-  <h2>
-  </h2>
-  </p>
+## Connect with me:
+- Discord: debmalya141  
+- Instagram: _debmalya2004_
+- Email: debsaha.yo@gmail.com
+
+---
+
+<div align="center" padding="20px">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=DebSaha141">
+    <img src="https://stats.quira.sh/DebSaha141/github?theme=dark" alt="DebmalyaSaha GitHub Stats" />
+  </a>
+    
+  <img src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=debsaha141&layout=compact&theme=midnight-purple" alt="DebSaha141's Languages" />
 </div>
 
-<div id="Contact">
-    <p>
-    <h3>
-    </h3>
-    </p>
-        <h3>
-            Contact :
-        </h3>
-    <p>
-    <h3>
-    </h3>
-    </p>
-    <a href="mailto:debsaha141@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/debmalya_2004/">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-</div>
+
+
+
 
     
 
