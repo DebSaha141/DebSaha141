@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/dzabseimd/image/upload/v1736098454/Untitled_design_l9ebcs.gif" width="90%" alt=""/>
+    <img src="https://res.cloudinary.com/dzabseimd/image/upload/v1736101241/Banner_iscpo9.gif" width="90%" alt=""/>
 </div>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,express,mongo,c,cpp,python,java,mysql,arduino,wordpress,firebase,vscode,visualstudio,figma,linux,kali &theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,flutter,typescript,tailwind,nodejs,express,mongo,vercel,c,cpp,python,java,mysql,arduino,wordpress,firebase,vscode,figma,linux,kali &theme=dark"/>
   </a>
 </div>
 
@@ -34,6 +34,11 @@
   </a>
     
   <img src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=debsaha141&layout=compact&theme=midnight-purple" alt="DebSaha141's Languages" />
+
+  <br/>
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=debsaha141&color=orange&style=flat&label=Visitors" alt="Visitors" />
 </div>
 
 
