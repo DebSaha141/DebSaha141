@@ -10,7 +10,7 @@
 
 ## About Me 
 - 🔭 Pronouns: He/Him.
-- 🌱 2nd Year CSE Student: Currently pursuing a Bachelors Degree in Computer Science and Technology at KIIT, Bhubaneswar, and actively seeking exciting opportunities!
+- 🌱 2nd Year CSE Student: Currently pursuing a Bachelors Degree in Computer Science and Engineering at KIIT, Bhubaneswar, and actively seeking exciting opportunities!
 - 👥 Tech Enthusiast: Passionate about web development, app development, and exploring the world of cybersecurity.
 - 🌟 Hackathon Winner: Ranked 1 in Frontend Battle '24 at IIT Bhubaneswar.
 - 🎯 2025 Goals: Develop innovative projects, contribute to open-source, and land a role that challenges my skills and creativity.
